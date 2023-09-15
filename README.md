@@ -1,5 +1,6 @@
 # PEFT LoRA for Stable Diffsuion Trainer and Pipeline Example
 PEFT does not have a specific example for Stable Diffusion LoRA, so this repo demonstrates how to use PEFT to perform Lora training and inference.
+The models weight is from modelscope.
 
 ## Docker
 ```
