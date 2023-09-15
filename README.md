@@ -10,8 +10,15 @@ registry.cn-hangzhou.aliyuncs.com/modelscope-repo/modelscope:ubuntu20.04-cuda11.
 ```bash
 pip install modelscope
 pip install peft
+pip install diffusers==0.20.2
 ```
 
 ## Train
+```bash
+bash train.sh
+```
 
 ## Pipeline
+```
+python pipeline.py
+```
