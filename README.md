@@ -1,5 +1,5 @@
 # PEFT LoRA for Stable Diffsuion Trainer and Pipeline Example
-PEFT does not have a specific example for SD Lora, but this repo demonstrates how to use PEFT to perform Lora training and reasoning.
+PEFT does not have a specific example for Stable Diffusion LoRA, so this repo demonstrates how to use PEFT to perform Lora training and inference.
 
 ## Docker
 ```
@@ -13,6 +13,5 @@ pip install peft
 ```
 
 ## Train
-
 
 ## Pipeline
